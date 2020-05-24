@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: uvsq.connection.DBConnectionTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.09 s <<< FAILURE! - in uvsq.connection.DBConnectionTest
+testconnection(uvsq.connection.DBConnectionTest)  Time elapsed: 0.089 s  <<< FAILURE!
+java.lang.AssertionError
+	at uvsq.connection.DBConnectionTest.testconnection(DBConnectionTest.java:14)
+

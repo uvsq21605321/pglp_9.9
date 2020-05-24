@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: uvsq.m1.gl.DatabaseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.087 s <<< FAILURE! - in uvsq.m1.gl.DatabaseTest
+test(uvsq.m1.gl.DatabaseTest)  Time elapsed: 0.086 s  <<< ERROR!
+java.lang.NullPointerException
+	at uvsq.m1.gl.DatabaseTest.test(DatabaseTest.java:16)
+

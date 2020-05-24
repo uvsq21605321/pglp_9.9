@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: uvsq.connection.DatabaseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.138 s <<< FAILURE! - in uvsq.connection.DatabaseTest
+test(uvsq.connection.DatabaseTest)  Time elapsed: 0.102 s  <<< ERROR!
+java.lang.NullPointerException
+	at uvsq.connection.DatabaseTest.test(DatabaseTest.java:16)
+
